@@ -1,0 +1,3 @@
+add_subdirectory(client)
+add_subdirectory(json_parser)
+add_subdirectory(local_storage)
